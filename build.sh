@@ -1,2 +1,2 @@
-# 必须带有nixery 由于 cdebug 的原因
+# image name must contains nixery because of cdebug program.
 docker build -t nixery_o1hy .
